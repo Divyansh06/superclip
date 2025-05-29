@@ -1,9 +1,0 @@
-{
-    "env": {
-        "MONGO_DB_USER": "krazy_eights",
-        "MONGO_DB_PASSWORD": "29uwB4EQ0m1KJAJw",
-        "MONGO_DB_APP": "superclip",
-        "MONGO_DB_DATABASE": "superclip",
-        "JWT_SECRET": "superclip_secret"
-    }
-}
